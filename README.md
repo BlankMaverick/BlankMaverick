@@ -1,21 +1,22 @@
+```
 ████████████████████████████████████
-█░▒▓▒░ GAME BOY ░▒▓▒░ █████████████
+███████░▒▓▒░ GAME BOY ░▒▓▒░ ████████
 ████████████████████████████████████
-█  ██████  ███████  ██████  ███████
-█  █     █ █     █ █     █ █     █
-█  █     █ ██████  █     █     █ ███████
+█  ██████  ███████  ██████  ██████
+█  █     █ █     █ █     █ █     ██
+█  █     █ ██████  █     █ █ █████
 █  █     █ █     █ █     █ █
-█  ██████  █     █  ██████  █
+█  ██████  █     █  █████  █
 ████████████████████████████████████
        ▼ CARTRIDGE INSERTED ▼
 
-       ╔═════════════════════════════════╗
-       ║  TITLE:   [YOUR-NAME] PROFILE    ║
+       ╔══════════════════════════════════╗
+       ║  TITLE:   BlankMavwerick PROFILE ║
        ║  GENRE:   Code & Curiosity       ║
-       ║  DEV:     @YOUR-GITHUB-USERNAME  ║
+       ║  DEV:     @BlankMaverick         ║
        ║  RELEASE: 2025                   ║
        ║  SAVE:    Explore & Connect!     ║
-       ╚═════════════════════════════════╝
+       ╚══════════════════════════════════╝
 
 ╔══════════════════════════════════════════════╗
 ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
@@ -28,6 +29,7 @@
 ║  ▓  Enjoy browsing and feel free to        ▓ ║
 ║  ▓  connect or collaborate!                ▓ ║
 ╚══════════════════════════════════════════════╝
+```
 
 ### > About Me
 A Portuguese Computer Engineering student passionate about bridging the physical and digital worlds.  
